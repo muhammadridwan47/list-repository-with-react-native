@@ -39,20 +39,21 @@ const styles = StyleSheet.create({
       justifyContent:'space-between',
       alignItems:'center',
       borderRadius:17,
-      marginBottom:15
+      marginBottom:15,
+      marginTop:2
     },
     wrapper:{
         alignItems:'center',
         flexDirection:'row'
     },
     title:{
-      fontSize:18,
+      fontSize:17,
       color:'#161822',
-      marginBottom:1,
+      marginBottom:2,
       fontFamily:'Tajawal-Medium'
     },
     subTitle:{
-      fontSize:16,
+      fontSize:15,
       color:'#737583',
       fontFamily:'Tajawal-Regular'
     },
@@ -60,7 +61,7 @@ const styles = StyleSheet.create({
         marginLeft:10
     },
     link:{
-        fontSize:18,
+        fontSize:17,
         color:"#6379F4"
 
     }
