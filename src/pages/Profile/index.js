@@ -1,6 +1,6 @@
 import React from 'react'
 import { View } from 'react-native';
-import { Profile,ProfileItem,Button } from '../../components';
+import { Profile,ProfileItem,Button, Card } from '../../components';
 import { GAP } from '../../utils';
 export default function index() {
     return (
