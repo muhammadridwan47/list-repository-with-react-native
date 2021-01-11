@@ -35,7 +35,6 @@ export default function Profile({navigation}) {
           setData('')
         })
     }
-
     const notFound = () => {
       showMessage({
         message: "Data Not Found!",
