@@ -8,7 +8,7 @@ const Stack = createStackNavigator();
 
 export default function Router() {
   return (
-    <Stack.Navigator initialRouteName={'Repository'}>
+    <Stack.Navigator initialRouteName={'Profile'}>
         <>
           <Stack.Screen
             name="Profile"

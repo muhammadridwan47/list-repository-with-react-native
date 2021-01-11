@@ -2,10 +2,10 @@ import React from 'react'
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native'
 import { IcBtnBack } from '../../assets'
 
-export default function index({title}) {
+export default function index({title,onPress}) {
     return (
         <View style={styles.link}>
-            <TouchableOpacity>
+            <TouchableOpacity onPress={onPress}>
                 <IcBtnBack/>
             </TouchableOpacity>
             <Text style={styles.heading}>{title}</Text>

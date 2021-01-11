@@ -1,6 +1,7 @@
-import {Profile} from './Github';
+import {Profile,ListRepository} from './Github';
 const API = {
-  Profile
+  Profile,
+  ListRepository
 };
 
 export default API;
