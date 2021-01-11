@@ -1,5 +1,7 @@
 import GAP from "./GAP"
+import URI from "./URI"
 
 export {
-    GAP
+    GAP,
+    URI
 }
