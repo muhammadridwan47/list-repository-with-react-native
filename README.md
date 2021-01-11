@@ -7,7 +7,7 @@
 
 <p align="center">
 	<strong>Aplikasi Github Dalam Genggamanmu</strong><br>
-	 Temukan akunmu dengan memasukkan username <i>Sekarang</i>.
+	 Temukan akunmu dengan memasukkan usernamemu <i>Sekarang</i>.
 </p>
 
 
