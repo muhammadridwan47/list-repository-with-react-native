@@ -12,7 +12,8 @@ const App = () => {
         <ProfileItem label={"Public Repository"} value={26}/>
         <ProfileItem label={"Followers"} value={7}/>
         <ProfileItem label={"Following"} value={13}/>
-        <Button name={"Start Consultation"}/>
+        <GAP height={23}/>
+        <Button name={"Show Repository"}/>
       </View>
     </>
   );
